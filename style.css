@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 80px;
+}
+h1{
+    font-size: 35px;
+}
+.skip{
+    color:tomato;
+}
+.flexible-container{
+    display: flex;
+    
+}
+
+.top-1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top:50px ;
+
+}
+.top-1 img{
+    width: 100%;
+}
+.order-btn{
+    color: white;
+    background-image: linear-gradient(tomato,orange);
+    font-weight: 400;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-decoration: none;
+
+}
+
+}
+.middle-banner{
+    background-image: url(images/shape/7.png) ;
+    background-repeat: no-repeat;
+}
+.middle-banner p{
+    text-align: center;
+    text-align: justify;
+}
+.recipes {
+    text-align: center;
+    margin-top: 50px;
+}
+.recipes-iteam{
+    width: 30%;
+    margin-left: 3%;
+    margin-right:3% ;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    padding: 10px 20px;
+   
+}
+#food1 img{
+    width:100%;
+}
+#food2 img{
+    width:100%;
+  
+}
+#food3 img{
+    width:100%
+}
+.social-area1{
+    margin-top: 50px;
+    width: 80%;
+    margin-left: 5%;
+    margin-right:5% ;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    padding: 10px 20px;
+    height: 150px;
+}
+.social-area2{
+    width: 30%;
+    margin-left: 3%;
+    margin-right:3% ;
+}
+
+footer{
+    background-color: black;
+    color:whitesmoke;
+    text-align: center;
+}
